@@ -5,7 +5,7 @@ import joblib
 import io
 
 st.set_page_config(page_title="Production Plan & Predict Speed", layout="wide")
-st.title("🚀 Production Planning with Predict Speed Model + Due Date")
+st.title("🚀 Can Line 2 Production Planning with Predict Speed Model")
 
 @st.cache_resource
 def load_model():
